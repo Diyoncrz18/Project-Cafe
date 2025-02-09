@@ -2,10 +2,14 @@ const Home: React.FC = () => {
   return (
     <section className="home" id="home">
       <div className="content">
-        <h3>Cofee Shop</h3>
+        <h3>The Roastery</h3>
+        <p></p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam
-          ducimus nemo tempora reiciendis, minus provident.
+          <b>Menemukan Kenikmatan dalam Setiap Tegukan</b>
+        </p>
+        <p>
+          The Roastery menghadirkan kopi terbaik dengan teknik pemanggangan
+          sempurna. Setiap cangkir adalah perjalanan rasa yang tak terlupakan.
         </p>
         <a href="#" className="btn">
           Dapatkan

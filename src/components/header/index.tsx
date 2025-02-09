@@ -11,12 +11,12 @@ const Header: React.FC = () => {
         <img src={logo} alt="" />
       </a>
       <nav className="navbar">
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
+        <a href="#home">Beranda</a>
+        <a href="#about">Tentang</a>
         <a href="#menu">Menu</a>
-        <a href="#products">Product</a>
-        <a href="#review">Review</a>
-        <a href="#contact">Contact</a>
+        <a href="#products">Produk</a>
+        <a href="#review">Ulasan</a>
+        <a href="#contact">Kontak</a>
         <a href="#blogs">Blog</a>
       </nav>
       <div className="icons">

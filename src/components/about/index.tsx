@@ -13,15 +13,18 @@ const About: React.FC = () => {
         <div className="content">
           <h3>apa yang membuat kopi kami istimewa</h3>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque
-            suscipit sapiente quos obcaecati eius deleniti non, numquam
-            aspernatur quas voluptatibus unde velit nobis quidem officia? Modi
-            maiores architecto aperiam obcaecati.
+            Di The Roastery, setiap biji kopi dipilih dengan teliti dan
+            dipanggang dengan sempurna untuk menghadirkan cita rasa terbaik di
+            setiap cangkir. Kami percaya bahwa kopi bukan sekadar minuman,
+            tetapi sebuah seni dan pengalaman yang menyatukan aroma, rasa, dan
+            kenikmatan dalam satu tegukan. Dengan biji kopi berkualitas tinggi,
+            teknik roasting terbaik, dan sentuhan cinta dari para barista kami,
+            The Roastery siap memberikan kehangatan dan semangat di setiap
+            sajian. Rasakan perpaduan sempurna antara tradisi dan inovasi dalam
+            secangkir kopi yang menggugah selera.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            dolores! Dolor delectus mollitia numquam excepturi quaerat nam non
-            cumque necessitatibus?
+          <b>The Roastery – Di Sini, Kopi Menemukan Jiwanya.</b>
           </p>
           <a href="#" className="btn">
             cari tahu lebih lanjut
