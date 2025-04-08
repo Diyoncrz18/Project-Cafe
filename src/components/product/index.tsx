@@ -28,9 +28,7 @@ const Product = () => {
               <i className="fas fa-star" />
               <i className="fas fa-star-half-alt" />
             </div>
-            <div className="price">
-              R$15,00 <span>R$20,00</span>
-            </div>
+            <div className="price">Rp35.000</div>
           </div>
         </div>
         <div className="box">
@@ -51,9 +49,7 @@ const Product = () => {
               <i className="fas fa-star" />
               <i className="fas fa-star-half-alt" />
             </div>
-            <div className="price">
-              R$15,00 <span>R$20,00</span>
-            </div>
+            <div className="price">Rp35.000</div>
           </div>
         </div>
         <div className="box">
@@ -74,9 +70,7 @@ const Product = () => {
               <i className="fas fa-star" />
               <i className="fas fa-star-half-alt" />
             </div>
-            <div className="price">
-              R$15,00 <span>R$20,00</span>
-            </div>
+            <div className="price">Rp35.000</div>
           </div>
         </div>
       </div>
