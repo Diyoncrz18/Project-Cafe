@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "../src/assets/css/style.css";
 import Header from "./components/header";
 import Home from "./components/home";
@@ -22,7 +21,6 @@ function App() {
       <Contact />
       <Blog />
       <Footer />
-      
     </>
   );
 }
