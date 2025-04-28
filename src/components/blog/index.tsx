@@ -24,7 +24,7 @@ const Blog = () => {
               nobis!
             </p>
             <a href="#" className="btn">
-              leia mais
+              Pesan Sekarang
             </a>
           </div>
         </div>
@@ -42,7 +42,7 @@ const Blog = () => {
               nobis!
             </p>
             <a href="#" className="btn">
-              leia mais
+              Pesan Sekarang
             </a>
           </div>
         </div>
@@ -60,7 +60,7 @@ const Blog = () => {
               nobis!
             </p>
             <a href="#" className="btn">
-              leia mais
+              Pesan Sekarang
             </a>
           </div>
         </div>
